@@ -1,0 +1,14 @@
+{
+    "name": "rustdesk",
+    "title": "RustDesk ID Viewer",
+    "description": "A Cockpit page to display RustDesk ID",
+    "version": "1.0",
+    "start": "index.html",
+    "menu": {
+        "index": {
+            "label": "RustDesk ID",
+            "order": 50
+        }
+    }
+}
+
